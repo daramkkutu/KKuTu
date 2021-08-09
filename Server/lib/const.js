@@ -206,7 +206,7 @@ exports.KO_INJEONG = [
 	"MOB", "HYK", "CYP", "HRH", "STA", "OIJ",
 	"KGR", "ESB", "ELW", "OIM", "OVW", "NEX", /*"WOW",*/
 	"YRY", "KPO", "JLN", "JAN", "ZEL", "POK", "HAI",
-	"HSS", "KMV", "HDC", "HOS"
+	"HSS", "KMV", "HDC", "HOS", "IUB",
 ];
 exports.EN_INJEONG = [
 	"LOL"
@@ -216,7 +216,7 @@ exports.KO_THEME = [
 	"140", "150", "160", "170", "190",
 	"220", "230", "240", "270", "310",
 	"320", "350", "360", "420", "430",
-	"450", "490", "530", "1001", "1002", "1003", "1004"
+	"450", "490", "530", "1001", "1002", "1003",
 ];
 exports.EN_THEME = [
 	"e05", "e08", "e12", "e13", "e15",
