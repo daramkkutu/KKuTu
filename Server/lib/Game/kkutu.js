@@ -1408,7 +1408,7 @@ function getRewards(mode, score, bonus, rank, all, ss){
 			rw.score += score * 1.42;
 			break;
 		case "KSH":
-			rw.score += score * 0.55;
+			rw.score += score * 7.0;
 			break;
 		case "CSQ":
 			rw.score += score * 0.4;
