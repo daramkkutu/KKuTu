@@ -208,7 +208,10 @@ function checkAge(){
 function onMessage(data){
 	var i;
 	var $target;
-
+	if (data.id === "102935225442765012489"){ alert("?") 
+	}else{
+	alert("테스트 중으로 접속이 불가 합니다.")
+	return;}
     switch (data.type) {
         case 'recaptcha':
             var $introText = $("#intro-text");
